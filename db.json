@@ -1,0 +1,48 @@
+{
+    "projects": [
+        {
+            "title": "Queue Booking",
+            "subtitle": " Android app",
+            "short_description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum pariatur exercitationem accusamus voluptas sit iste quos, placeat incidunt rem",
+            "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci obcaecati quos consequatur quasi et delectus perspiciatis, pariatur iusto excepturi libero corporis culpa eos aliquid dolores impedit atque provident temporibus. Culpa? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, in doloremque? Iste voluptatibus debitis libero beatae explicabo, ducimus exercitationem autem temporibus nostrum. Minima ea mollitia quo dolorem, quibusdam corrupti aspernatur?",
+            "thumbnail": "project1.jpg",
+            "image": "project1.jpg",
+            "id": 1
+        },
+        {
+            "title": "Queue Booking",
+            "subtitle": " Android app",
+            "short_description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum pariatur exercitationem accusamus voluptas sit iste quos, placeat incidunt rem",
+            "long_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci obcaecati quos consequatur quasi et delectus perspiciatis, pariatur iusto excepturi libero corporis culpa eos aliquid dolores impedit atque provident temporibus. Culpa? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, in doloremque? Iste voluptatibus debitis libero beatae explicabo, ducimus exercitationem autem temporibus nostrum. Minima ea mollitia quo dolorem, quibusdam corrupti aspernatur?",
+            "thumbnail": "project1.jpg",
+            "image": "project2.jpg",
+            "id": 2
+        }
+    ],
+
+    "services": [
+        {
+            "title": "Design+Development",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium, quibusdam quidem enim aliquid inventore est distinctio nulla quo, soluta molestiae sunt nam alias minima consequatur voluptas modi eos velit."
+        },
+        {
+            "title": "E-Commerce",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium, quibusdam quidem enim aliquid inventore est distinctio nulla quo, soluta molestiae sunt nam alias minima consequatur voluptas modi eos velit."
+        },
+        {
+            "title": "WordPress",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium, quibusdam quidem enim aliquid inventore est distinctio nulla quo, soluta molestiae sunt nam alias minima consequatur voluptas modi eos velit."
+        }
+        
+
+    ],
+    "about":[
+        {
+           "title": "Designer & Developer Based Out Of Nairobi",
+           "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A necessitatibus suscipit quisquam quaerat iste minima distinctio tempora expedita excepturi, temporibus nihil fugiat, quasi cupiditate dolores adipisci nostrum eveniet et optio.\nLorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos nam autem eaque iusto qui itaque? Autem modi tenetur voluptatum maiores sed? Aperiam, commodi. Magnam excepturi maiores tempora inventore possimus quasi? Lorem ipsum dolor sit amet consectetur, adipisicing elit. A necessitatibus suscipit quisquam quaerat iste minima distinctio tempora expedita excepturi, temporibus nihil fugiat, quasi cupiditate dolores adipisci nostrum eveniet et optio.",
+           "image": "mypic1.jpeg"
+        }
+    ]
+    
+    
+}
