@@ -22,15 +22,15 @@
 
     "services": [
         {
-            "title": "FRONT-END WEB DEVELOPMENT",
-            "description": "Application development in React is my specialty. Recently, I have also become a big fan of one-way data flows, Redux-like architectures, as well as typed programming languages like TypeScript."
+            "title": "Android Apps",
+            "description": "Android Apps Restful Api Websites A code-minded front-end software engineer focused on building beautiful interfaces & experiences and Convert Ideas, Design To System With Frontend Side (Android Apps, React Websites, Next.js Websites) also The Backend Side With (SpringBoot, Ktor, Nest.js, Laravel), Always Trying To Build Tools To Help and Improve My Work Few technologies I've been working with Android - Kotlin React, Next.js Spring Boot Laravel Node.js (Nest) Terminal Tools (Ruby)."
         },
         {
-            "title": "BACK-END WEB DEVELOPMENT",
+            "title": "Restful Api",
             "description": " In back-end development, my current stack involves Flask, NodeJS and PHP. MySQL and MongoDB are DBMS technology that have used on the projects i have worked on"
         },
         {
-            "title": "WordPress",
+            "title": "Websites",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium, quibusdam quidem enim aliquid inventore est distinctio nulla quo, soluta molestiae sunt nam alias minima consequatur voluptas modi eos velit."
         }
         
