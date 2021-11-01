@@ -22,12 +22,12 @@
 
     "services": [
         {
-            "title": "Design+Development",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium, quibusdam quidem enim aliquid inventore est distinctio nulla quo, soluta molestiae sunt nam alias minima consequatur voluptas modi eos velit."
+            "title": "FRONT-END WEB DEVELOPMENT",
+            "description": "Application development in React is my specialty. Recently, I have also become a big fan of one-way data flows, Redux-like architectures, as well as typed programming languages like TypeScript."
         },
         {
-            "title": "E-Commerce",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium, quibusdam quidem enim aliquid inventore est distinctio nulla quo, soluta molestiae sunt nam alias minima consequatur voluptas modi eos velit."
+            "title": "BACK-END WEB DEVELOPMENT",
+            "description": " In back-end development, my current stack involves Flask, NodeJS and PHP. MySQL and MongoDB are DBMS technology that have used on the projects i have worked on"
         },
         {
             "title": "WordPress",
@@ -39,7 +39,7 @@
     "about":[
         {
            "title": "Designer & Developer Based Out Of Nairobi",
-           "description": "I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. In my career, I've always sought out meaningful challenges and opportunities. As a web developer, I use my attention to detail, passion for making things, and dedication to change the world through my work. That's why I'm looking forward to making an impact at a high-growth company.",
+           "description": "I’m a software developer specializing in building (and occasionally designing) exceptional digital experiences. In my career, I've always sought out meaningful challenges and opportunities. As a web developer, I use my attention to detail, passion for making things, and dedication to change the world through my work. That's why I'm looking forward to making an impact at a high-growth company.",
            "image": "mypic1.jpeg"
         }
     ]
