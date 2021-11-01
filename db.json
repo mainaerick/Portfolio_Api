@@ -3,7 +3,7 @@
         {
             "title": "Admin Dashboard",
             "subtitle": " React app",
-            "short_description": "/react-admin-template",
+            "short_description": "https://mainaerick.github.io/react-admin-template",
             "long_description": "React Admin Template",
             "thumbnail": "project1.jpg",
             "image": "project1.jpg",
@@ -12,7 +12,7 @@
         {
             "title": "Queue Booking",
             "subtitle": " Android app",
-            "short_description": "/comingup",
+            "short_description": "https://play.google.com/store/apps/details?id=com.fuprox.noqueue",
             "long_description": "Lorem ipsum dolor",
             "thumbnail": "project1.jpg",
             "image": "project2.jpg",
