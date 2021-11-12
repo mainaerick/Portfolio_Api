@@ -17,6 +17,15 @@
             "thumbnail": "project1.jpg",
             "image": "project2.jpg",
             "id": 2
+        },
+        {
+            "title": "Timetable System",
+            "subtitle": " HTML,CSS,Javascript, PHP",
+            "short_description": "https://github.com/mainaerick/timetable_backend",
+            "long_description": "Timetable Management System",
+            "thumbnail": "project3.jpg",
+            "image": "project3.jpg",
+            "id": 3
         }
     ],
 
